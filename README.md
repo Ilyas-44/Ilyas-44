@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilyas-44" alt="ilyas-44" /></a> </p>
 
-- 🔭 I’m currently studyin at **OFPPT**
+- 🔭 I’m currently working at **NTT DATA**
 
-- 🌱 I’m currently learning **Laravel , Ruby**
+- 🌱 I’m currently learning **JAVA , C++**
 
-- 🤝 I’m looking for help with **C and C#**
-
-- 👨‍💻 All of my projects are available at [http://ilyasalaoui.me/](http://ilyasalaoui.me/)
-
-- 💬 Ask me about **react,Nodejs,php,mysql,javascript,css...**
+- 👨‍💻 My projects are available at [http://ilyasalaoui.me/](http://ilyasalaoui.me/)
 
 - 📫 How to reach me **alaouiilyas44@gmail.com**
 
